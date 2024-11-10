@@ -27,6 +27,7 @@ import cn.lyric.getter.hook.app.RPlayer
 import cn.lyric.getter.hook.app.Salt
 import cn.lyric.getter.hook.app.SystemUi
 import cn.lyric.getter.hook.app.Toside
+import cn.lyric.getter.hook.app.Ikunshare
 import cn.xiaowine.xkt.LogTool
 import cn.xiaowine.xkt.LogTool.log
 import com.github.kyuubiran.ezxhelper.EzXHelper
