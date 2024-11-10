@@ -51,6 +51,7 @@ class MainHook : IXposedHookLoadPackage, IXposedHookZygoteInit {
             "com.meizu.media.music" -> initHooks(Meizu)
             "com.r.rplayer" -> initHooks(RPlayer)
             "cn.toside.music.mobile" -> initHooks(Toside)
+            "com.ikunshare.music.mobile" -> initHooks(Ikunshare)
             "com.apple.android.music" -> initHooks(Apple)
             "com.luna.music" -> initHooks(Luna)
             "com.xuncorp.qinalt.music" -> initHooks(Qinalt)
